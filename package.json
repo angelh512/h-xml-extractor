@@ -1,0 +1,23 @@
+{
+  "name": "h-xml-extractor",
+  "version": "1.0.0",
+  "description": "Script para extraer percepciones y deducciones de una carpeta con CFDI en XML",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelh512/h-xml-extractor.git"
+  },
+  "author": "Angel Alejandro Haya Ramirez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angelh512/h-xml-extractor/issues"
+  },
+  "homepage": "https://github.com/angelh512/h-xml-extractor#readme",
+  "dependencies": {
+    "fast-csv": "^4.3.6",
+    "xml2json": "^0.12.0"
+  }
+}
